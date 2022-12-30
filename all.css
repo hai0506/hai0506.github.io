@@ -177,7 +177,7 @@ dd {
     font-weight: lighter;
     font-size: 14px;
     margin: 2px;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 dt {
     padding-right: 100px;
@@ -185,7 +185,7 @@ dt {
     border-bottom:darkgray solid 1px;
 }
 #search-filter-col {
-    margin-left: 20px;
+    margin-left: 10px;
     border-right: 1px darkgray solid;
 }
 .form-label {
