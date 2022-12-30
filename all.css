@@ -1,9 +1,6 @@
 a:hover {
     color: inherit;
 }
-body {
-    background-color: white;
-}
 .nav-link {
     text-decoration: none;
     color: black;
@@ -24,18 +21,18 @@ body {
     border-color: #000000;
 }
 #menu-tab {
-    margin-top: 10pt;
+    padding-top: 10pt;
     padding-bottom: 10px;
     border-bottom: 2px;
-    /* background-color: #fafafa; */
+    background-color: white;
 }
 #menu-list {
     padding-top: 15px;
     padding-bottom: 1px;
-    /* background-color: #fafafa; */
     box-shadow: 0 4px 2px -2px #e8e8e8;
     margin-bottom: 30px;
     list-style: none;
+    background-color: white;
 }
 * {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -200,5 +197,18 @@ dt {
 }
 a[href="contact.html"] {
     margin-left: 30px;
-    color: #383838;
+    color: black
 }
+h5 {
+    color: #575757;
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #575757; 
+    line-height: 0.1em;
+    margin: 40px 0 40px; 
+ } 
+ 
+ h5 span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
